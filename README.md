@@ -7,11 +7,11 @@ Uma extensão para Visual Studio Code que automatiza a captura e formatação de
 
 ## 📦 Instalação Rápida
 
-1. Baixe o arquivo `manager-assistant-0.1.0.vsix`
+1. Baixe o arquivo `manager-assistant-1.0.0-alpha.vsix`
 2. Abra o terminal na pasta do arquivo
 3. Execute:
 ```bash
-code --install-extension manager-assistant-0.1.0.vsix
+code --install-extension manager-assistant-1.0.0-alpha.vsix
 ```
 4. Reinicie o VS Code
 
